@@ -1,12 +1,20 @@
 # Các hệ thống phân tán
-Đề tài 10: Xây dựng Middleware tương tác cơ sở dữ liệu và ứng dụng sử dụng
+
+**Đề tài 10: Xây dựng Middleware tương tác cơ sở dữ liệu và ứng dụng sử dụng**
+
+1. Trần Quang Vinh - N18DCCN246
+2. Nguyễn Ngọc Thạch - N18DCCN203
+3. Đỗ Huỳnh Hồng Phúc - N18DCCN153
+4. Võ Đại Việt Thắng - N18DCCN213
 
 ## Cài đặt phần mềm
 
 Cài đặt NodeJS:
+
 https://openplanning.net/11921/cai-dat-nodejs-tren-windows
 
 Cài đặt hệ quản trị CSDL PostgeSQL
+
 https://openplanning.net/10713/cai-dat-co-so-du-lieu-postgresql-tren-windows
 
 ## Tạo cơ sở dữ liệu
